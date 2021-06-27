@@ -19,11 +19,12 @@ ________________________________________________________________________________
 O Brasil tem um grave problema quando falamos em política, porém podemos ter ações que podem melhorar alguns dos fatores.
 A primeira que teremos é criar um algoritmo base para a Urna Eletrônica. Nesse algoritmo teremos apenas 5 candidatos por enquanto:
 <br>
-1 - Vincent Vega
-2 - Rick Dalton
-3 - Shoshanna Dreyfus
-4 - Beatrixx Kido
-5 - Jules Winnfield
+- Vincent Vega
+- Rick Dalton
+- Shoshanna Dreyfus
+- Beatrixx Kido
+- Jules Winnfield
+<br>
 Você deve criar um algoritmo que pergunte quantos eleitores irão participar, cada eleitor  terá  direito  a  apenas  um  voto,  
 porém  se  realizar  um  voto  errado  (um número de candidato que não existe), tem 5 chances até informar um voto válido. 
 No final deve informar a porcentagem de votos de todos os candidatos e quem foi  eleito.  Não  precisa  considerar  segundo  turno.  
