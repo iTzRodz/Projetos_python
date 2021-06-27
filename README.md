@@ -18,6 +18,7 @@ ________________________________________________________________________________
 2 - Urna_eletronica
 O Brasil tem um grave problema quando falamos em política, porém podemos ter ações que podem melhorar alguns dos fatores.
 A primeira que teremos é criar um algoritmo base para a Urna Eletrônica. Nesse algoritmo teremos apenas 5 candidatos por enquanto:
+<br>
 1 - Vincent Vega
 2 - Rick Dalton
 3 - Shoshanna Dreyfus
