@@ -1,6 +1,6 @@
 # Projetos_python
 
-1 - Big_Bom.py
+1 - Big_Bom.py <br>
 Um mercadinho de bairro expandiu seus caixas e funcionários, agora eles precisam deum programa que implemente uma caixa registradora simples.  
 O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra.
 O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. 
@@ -15,7 +15,7 @@ Mercadinho BigBom
 - Troco: R$ 11.00
 _________________________________________________________________________________________________________________________________________________________________________________
 
-2 - Urna_eletronica
+2 - Urna_eletronica <br>
 O Brasil tem um grave problema quando falamos em política, porém podemos ter ações que podem melhorar alguns dos fatores.
 A primeira que teremos é criar um algoritmo base para a Urna Eletrônica. Nesse algoritmo teremos apenas 5 candidatos por enquanto:
 <br>
