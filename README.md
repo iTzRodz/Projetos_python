@@ -1,4 +1,5 @@
-# Projetos_python
+# Treinando lógica de programação com python
+##### Alguns exercícios em python realizados em aula
 
 1 - Big_Bom.py <br>
 Um mercadinho de bairro expandiu seus caixas e funcionários, agora eles precisam deum programa que implemente uma caixa registradora simples.  
